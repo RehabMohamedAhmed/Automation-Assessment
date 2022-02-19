@@ -20,5 +20,3 @@ Included in this repository are simple example tests for Sign-up on http://autom
 # pre-requisits
 Install Java and set up. Install Maven and set up Provide all the required Inputs like --> driver type and driver path to invoke the browser -->url to invoke Install all the dependencies
 
-# Reports
-HTML reports like emailable reort.html, index.html are generated under target folder. These reports are very useful to analyse the results in a quick and more convenient way
